@@ -1,2 +1,2 @@
-# HackTheBox-
-HackTheBox CTF
+# picoCTF solutions
+
